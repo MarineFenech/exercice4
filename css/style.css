@@ -19,10 +19,10 @@
  }
 
  .boite {
-     background-color: rgb(43, 48, 119);
+     background-color: rgb(119, 43, 56);
      color: rgb(255, 255, 255);
      border-radius: 5px;
-     padding: 20px;
+     padding: 10px;
      font-size: 150%;
  }
 
